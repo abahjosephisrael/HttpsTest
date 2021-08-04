@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+	  <UserSecretsId>14cac036-2c6c-4c8c-99f5-92742d660245</UserSecretsId>
+  </PropertyGroup>
+
+
+</Project>
